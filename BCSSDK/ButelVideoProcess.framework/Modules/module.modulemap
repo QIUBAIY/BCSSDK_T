@@ -1,0 +1,6 @@
+framework module ButelVideoProcess {
+  umbrella header "ButelVideoProcess.h"
+
+  export *
+  module * { export * }
+}

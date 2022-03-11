@@ -1,0 +1,6 @@
+framework module ButelVoiceEngine {
+  umbrella header "ButelVoiceEngine.h"
+
+  export *
+  module * { export * }
+}

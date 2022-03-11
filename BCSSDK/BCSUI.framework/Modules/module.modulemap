@@ -1,0 +1,6 @@
+framework module BCSUI {
+  umbrella header "BCSUI.h"
+
+  export *
+  module * { export * }
+}

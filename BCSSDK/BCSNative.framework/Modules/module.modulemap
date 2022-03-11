@@ -1,0 +1,6 @@
+framework module BCSNative {
+  umbrella header "BCSNative.h"
+
+  export *
+  module * { export * }
+}
